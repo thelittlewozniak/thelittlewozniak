@@ -20,7 +20,7 @@ To have better ideas and a cool ambiance, we are inside a wood inside an ecologi
 But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
 
 ### MICFM
-<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/2541581-1574432011220-825f1d327f6b4.jpg" width="150">
+<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/2541581-1574432011220-825f1d327f6b4.jpg" width="100">
 MICFM is a monthly podcast where we talk about news for developers. There's also every time a guest who come to explain his project and co-animate the podcast. 
 By this podcast, we keep members of the community of the MIC informed but also everyone who want to be informed. We also want to show to everyone that there's a lot of cool 
 projects in wallonia.
