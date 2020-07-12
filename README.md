@@ -30,7 +30,7 @@ projects in wallonia.
 
 At the beginning, SpaceY was just a joke but now, it's a community. 
 A community of young developers that focuses on delivering opensource projects based on new technologies. 
-These projects are from different areas, answer or redefine different needs and spontaneously break implicit standards in order to show the developer community
+These projects are from different areas, answer or redefine different needs and spontaneously break implicit standards in order to show the developer community that we can still improve current applications but also create new things !
 the website is [SpaceY](https://www.wearespacey.com/).
 
 
