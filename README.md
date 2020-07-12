@@ -2,7 +2,7 @@
 
 <img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565035306465.jpg" width="100">
 Hi all! My name is Nathan. I'm a Developer Evangelist who try to make the world better and more aware of new technologies!
-How am I try to make that?
+How do I try to make that?
 
 
 
