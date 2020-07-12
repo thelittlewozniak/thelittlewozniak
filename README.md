@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565035306465.jpg" width="200">
+<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565035306465.jpg" width="100">
 Hi all! My name is Nathan. I'm a Developer Evangelist who try to make the world better and more aware of new technologies!
 How am I try to make that?
 
@@ -17,9 +17,8 @@ The HITW is a festival for developers. During a weekend, 1000 developers will co
 They will develop projects that can help the NGOs on the ground, in a logistic part or innovative projets. 
 To have better ideas and a cool ambiance, we are inside a wood inside an ecological farm.
 
-<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/IMG_20190803_155706.jpg" width="200">
 But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
-<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565632735952.jpg" width="200">
+<img src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565632735952.jpg" width="500">
 
 <!--
 **thelittlewozniak/thelittlewozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
