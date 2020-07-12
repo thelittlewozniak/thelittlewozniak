@@ -18,7 +18,7 @@ They will develop projects that can help the NGOs on the ground, in a logistic p
 To have better ideas and a cool ambiance, we are inside a wood inside an ecological farm.
 
 But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
-<img src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565632735952.jpg" width="500">
+<img align="center" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565632735952.jpg" width="500">
 
 <!--
 **thelittlewozniak/thelittlewozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
