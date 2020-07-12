@@ -1,8 +1,22 @@
 ### Hi there 👋
+![A picture of myself](https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565035306465.jpg)
+Hi all! My name is Nathan. I'm a Developer Evangelist who try to make the world better and more aware of new technologies!
+How am I try to make that?
 
+## MIC
+As a Developer Evangelist at the [MIC](mic-belgique.be), I work a lot with new technologies to show to power of these to developers or SMEs.
+To make that, my colleagues and I make demos, talks,events,... 
+### HITW
+One of our biggest event is [the Hack In The Woods](hackinthewoods.be).
+![The first day of HITW](https://github.com/thelittlewozniak/thelittlewozniak/blob/master/IMG_20190801_210554.jpg)
+The HITW is a festival for developers. During a weekend, 1000 developers will code and help NGOs for a better world. 
+They will develop projects that can help the NGOs on the ground, in a logistic part or innovative projets. 
+To have better ideas and a cool ambiance, we are inside a wood inside an ecological farm.
+![talks at HITW](https://github.com/thelittlewozniak/thelittlewozniak/blob/master/IMG_20190803_155706.jpg)
+But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
+![The team behing HITW](https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565632735952.jpg)
 <!--
 **thelittlewozniak/thelittlewozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![A picture of myself](https://lh3.googleusercontent.com/f6_dPOKqO-K0JEQvuAgCrpnlYg7TrSDvFGB8guHAj-mVgcUNnWB9tmEHvcltlK9vQ-7yE7jkCTeKrF7OOWw8w2Z_99B80Fd4g4nIhokqlkVgV5rhlaEjvO8Sxyj1xyeTrtOch9wV4D1J-jQVEODPDlm6rxKFynT22kIDZJARBMiiFY2gw-YlXkiYRWFTQRpOt2v5OMzaxbukLJXZC7HwGw3ly2PNKIK-mUs_9GInk8eBB0jr4GSvpo6KUst21O2tC0UaN_RZpU6nj8NcqSYCvZUczlDmc8WG73nUFODLcUEfVNI-NNVIM-I5CBceA5LXwIMz0rlj6RzP3E-xDG3aa_mnkJSEE_LV_gcBv6gBtB2v50Jk0izVCx_M2J_sys-CwKK9Muw_VxdctlKlw_ILUMi0EWD3zs3DqDxxYC2DAWVsll-WRPjoCOyDhhC5IHn9qwOcC8gGK6ChGip3Vs678XOMsLgSqnUSqPrsQ1gDZhUo-wo3GW46uMJazkdoL8EI_noljpc2NIJASesH6WFBKtTYWXcUCBMlM3dl55WJ4_XnCfGFHXqP0AxJlyuIMVMkuVN2EB4bEeeyFafT21uQYD9p99WZ2_cZZkV6KUE5np_HIivDuxXDTwdy3BIv_HS0U1NYwAirtUwVD3cwGUztcb5aCo2HZjanCNFIRJDIwz2Gjzcs5fJinRW5I6O0OA=s1105-no?authuser=0)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
