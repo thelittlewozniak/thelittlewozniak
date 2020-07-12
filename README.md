@@ -2,7 +2,9 @@
 <img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/FB_IMG_1565035306465.jpg" width="200">
 Hi all! My name is Nathan. I'm a Developer Evangelist who try to make the world better and more aware of new technologies!
 How am I try to make that?
-
+<br />
+<br />
+<br />
 ## MIC
 As a Developer Evangelist at the [MIC](mic-belgique.be), I work a lot with new technologies to show to power of these to developers or SMEs.
 To make that, my colleagues and I make demos, talks,events,... 
