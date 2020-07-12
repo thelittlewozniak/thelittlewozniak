@@ -7,7 +7,7 @@ How am I try to make that?
 
 
 ## MIC
-As a Developer Evangelist at the [MIC](https://mic-belgique.be/), I work a lot with new technologies to show to power of these to developers or SMEs.
+As a Developer Evangelist at the [MIC](https://mic-belgique.be/), I work a lot with new technologies to show the power of these to developers or SMEs.
 To make that, my colleagues and I make demos, talks,events,... 
 
 ### HITW
@@ -20,13 +20,17 @@ To have better ideas and a cool ambiance, we are inside a wood inside an ecologi
 But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
 
 ### MICFM
-<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/2541581-1574432011220-825f1d327f6b4.jpg" width="200">
+<img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/2541581-1574432011220-825f1d327f6b4.jpg" width="150">
 MICFM is a monthly podcast where we talk about news for developers. There's also every time a guest who come to explain his project and co-animate the podcast. 
 By this podcast, we keep members of the community of the MIC informed but also everyone who want to be informed. We also want to show to everyone that there's a lot of cool 
 projects in wallonia.
 
 ## SPACEY
-
+At the beginning, SpaceY was just a joke but now, it's a community. 
+A community of young developers that focuses on delivering opensource projects based on new technologies. 
+These projects are from different areas, answer or redefine different needs and spontaneously break implicit standards in order to show the developer community
+the website is: [wearespacey.com](https://www.wearespacey.com/)
+<img align="right" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/IMG_0757.jpg" width="200">
 
 <!--
 **thelittlewozniak/thelittlewozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
