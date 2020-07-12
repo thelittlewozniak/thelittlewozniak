@@ -32,6 +32,7 @@ A community of young developers that focuses on delivering opensource projects b
 These projects are from different areas, answer or redefine different needs and spontaneously break implicit standards in order to show the developer community
 the website is [SpaceY](https://www.wearespacey.com/).
 
+
 <!--
 **thelittlewozniak/thelittlewozniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
