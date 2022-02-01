@@ -4,21 +4,6 @@
 Hi all! My name is Nathan. I'm a Developer Evangelist who try to make the world better and more aware of new technologies!
 How do I try to make that?
 
-
-
-## MIC
-As a Developer Evangelist at the [MIC](https://mic-belgique.be/), I work a lot with new technologies to show the power of these to developers or SMEs.
-To make that, my colleagues and I make demos, talks,events,... 
-
-### HITW
-One of our biggest event is [the Hack In The Woods](https://hackinthewoods.be/).
-<img align="right" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/IMG_20190801_210554.jpg" width="200">
-The HITW is a festival for developers. During a weekend, 1000 developers will code and help NGOs for a better world. 
-They will develop projects that can help the NGOs on the ground, in a logistic part or innovative projets. 
-To have better ideas and a cool ambiance, we are inside a wood inside an ecological farm.
-
-But, HITW is also an event where you can learn things. To make that possible, we have 2 tracks of talks to help people learn more on new things or on things that they already know.
-
 ### MICFM
 <img align="left" src="https://github.com/thelittlewozniak/thelittlewozniak/blob/master/2541581-1574432011220-825f1d327f6b4.jpg" width="100">
 MICFM is a monthly podcast where we talk about news for developers. There's also every time a guest who come to explain his project and co-animate the podcast. 
