@@ -1,7 +1,8 @@
 # 💫 About Me:
-Curious, committed, and reliable, I place great importance on a strong sense of responsibility and on human relationships at work. I enjoy understanding challenges, collaborating transparently, and fostering a climate of trust within a team.
+I build and deploy custom web applications aligned with real business needs, with a strong focus on clean architecture, reliability, and long-term impact.
 
-When I commit to a project, I see it through to completion with a structured and thoughtful approach, without losing sight of quality or long-term impact. What motivates me most is contributing to something solid and sustainable, in an environment where collaboration and mutual respect are essential.
+I work mainly with Django / HTMX, Angular, and React, design reusable architectures and CI/CD pipelines, and take an active role in technical leadership, mentoring, and code reviews.
+I’m also closely involved in client collaboration, from requirements analysis to production and beyond.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/7965) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thelittlewozniak) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nathanpire) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thelittlewozniak) 
